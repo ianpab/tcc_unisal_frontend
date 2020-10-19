@@ -12,7 +12,7 @@ que podem ser Mantas e Cobertores, Álcool e EPIs, Comida ou Cesta Básica, Más
 pessoas que necessitam de ajuda.<br>
 Também é possível localizar esses doadores, assim pessoas em vulnerabilidade social conseguem encontrar pontos de apoio.
 
-<a href="https://doapp-frontend.herokuapp.com/create-point" target="_blank">Acesse o site do projeto aqui</a>
+<a href="https://doapp-frontend.herokuapp.com" target="_blank">Acesse o site do projeto aqui</a>
 
 <a id="tecnologias-utilizadas"></a>
 
